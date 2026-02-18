@@ -1,0 +1,29 @@
+# ============================================================
+# mediapull — Default yt-dlp configuration
+# These settings are applied to every download.
+# All values can be overridden from the command line.
+#
+# Usage example (override audio format):
+#   mediapull.sh my_videos.md --audio-format wav
+# ============================================================
+
+# Extract audio only (true/false)
+extract_audio: true
+
+# Audio format: mp3, wav, m4a, flac, opus, vorbis, aac
+audio_format: mp3
+
+# Audio quality: 0 (best) to 10 (worst)
+audio_quality: 0
+
+# Seconds to wait between downloads (polite scraping)
+sleep_interval: 1
+
+# Number of retries on failure
+retries: 3
+
+# Optional: any extra yt-dlp flags as a list
+# extra_flags:
+#   - "--embed-thumbnail"
+#   - "--embed-metadata"
+#   - "--no-playlist"
