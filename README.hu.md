@@ -116,13 +116,13 @@ mediapull videok.md --[TAB][TAB]       # összes yt-dlp kapcsolót listázza
 Egyszerű szövegfájl, soronként egy URL. A `#` kommentek és üres sorok figyelmen kívül maradnak.
 
 ```
-# 2. modul — Bevezető videók
-https://player.vimeo.com/video/1109127196
-https://player.vimeo.com/video/1109127145
+# 1. modul
+https://player.vimeo.com/video/XXXXXXXXX
+https://player.vimeo.com/video/XXXXXXXXX
 
-# 2. modul — Mélyebb anyagok
-https://player.vimeo.com/video/1109656462
-https://player.vimeo.com/video/1115875596
+# 2. modul
+https://player.vimeo.com/video/XXXXXXXXX
+https://player.vimeo.com/video/XXXXXXXXX
 ```
 
 ---

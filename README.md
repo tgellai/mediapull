@@ -114,13 +114,13 @@ mediapull my_videos.md --[TAB][TAB]   # lists all yt-dlp flags
 Plain text, one URL per line. Comments (`#`) and blank lines are ignored.
 
 ```
-# Module 2 — Introduction videos
-https://player.vimeo.com/video/1109127196
-https://player.vimeo.com/video/1109127145
+# Module 1
+https://player.vimeo.com/video/XXXXXXXXX
+https://player.vimeo.com/video/XXXXXXXXX
 
-# Module 2 — Deep dives
-https://player.vimeo.com/video/1109656462
-https://player.vimeo.com/video/1115875596
+# Module 2
+https://player.vimeo.com/video/XXXXXXXXX
+https://player.vimeo.com/video/XXXXXXXXX
 ```
 
 ---
